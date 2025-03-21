@@ -1,5 +1,7 @@
 # 1η ασκηση φωτογραμμετριας ιωαννα γκολλοση 
  
+![image](https://github.com/user-attachments/assets/3e05d2d3-0600-4de5-a907-ce12929cd459)
+
 
 ## 🤓 Course overview and learning outcomes 
 
